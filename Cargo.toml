@@ -1,0 +1,8 @@
+[package]
+name = "rs_fractal"
+version = "0.1.0"
+authors = ["Andrew McHarg <amcharg@gmail.com>"]
+
+[dependencies]
+image = "*"
+num = "*"
